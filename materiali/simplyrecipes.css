@@ -1,0 +1,19 @@
+span{
+    font-weight: bold;
+}
+
+header img{
+    display: flex;
+    flex-direction: column;
+    max-width: 20%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+header p{
+    text-align: center;
+    background-color: beige;
+    border-top: 2px solid yellow;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
