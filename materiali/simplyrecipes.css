@@ -17,3 +17,16 @@ header p{
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
+main h1{
+    text-align: center;
+    margin: 0 auto;
+    max-width: 50%;
+}
+
+.dimensioni{
+    text-align: justify;
+    max-width: 55%;
+    margin: 10px auto 5px;
+}
+
