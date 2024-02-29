@@ -1,4 +1,4 @@
-span{
+header span{
     font-weight: bold;
 }
 
@@ -26,7 +26,59 @@ main h1{
 
 .dimensioni{
     text-align: justify;
-    max-width: 55%;
     margin: 10px auto 5px;
+    max-width: 55%;
 }
 
+main img{
+    display: flex;
+    flex-direction: column;
+    width: 55%;
+    margin: 0 auto;
+    height: 400px;
+}
+
+.principale{
+    text-align: center;
+}
+
+.secondario{
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    margin: 0 auto;
+    max-width: 55%;
+}
+
+.featured{
+    border-left: 2px solid yellow;
+    text-align: justify;
+}
+
+.featured p{
+    padding-left: 8px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+aside h2{
+    border-bottom: 2px solid aqua;
+    padding-bottom: 20px;
+}
+
+.rosso{
+    color: red;
+}
+
+aside ul{
+    margin: 8px;
+}
+
+ul li{
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+ol p{
+    text-align: left;
+}
